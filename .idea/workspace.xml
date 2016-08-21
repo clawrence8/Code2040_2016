@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2c623a1-a777-486b-b0c7-c0d9030f5e2a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Code2040_2016/ApiChallenge.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Code2040_2016/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Code2040_2016/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Code2040_2016/.idea/libraries/com_fasterxml_jackson_datatype_jackson_datatype_json_org_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Code2040_2016/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Code2040_2016/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Code2040_2016/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Code2040_2016/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Code2040_2016/Code2040_2016.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Code2040_2016/README.md" />
+    <list default="true" id="c2c623a1-a777-486b-b0c7-c0d9030f5e2a" name="Default" comment="Step 1 Complete">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ApiChallenge.java" afterPath="$PROJECT_DIR$/ApiChallenge.java" />
     </list>
     <ignored path="Code2040_2016.iws" />
@@ -422,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1471815557724</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Step 1 Complete">
+      <created>1471815882481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1471815882481</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
